@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yaap_logo_colors">@android:color/system_accent3_300</color>
+</resources>
